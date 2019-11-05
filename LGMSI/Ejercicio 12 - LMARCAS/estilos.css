@@ -1,0 +1,168 @@
+#uno{
+position:absolute;
+top:100px;
+left:100px;
+background-image: url(fotos/trap.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: auto;
+width:1100px;
+height:530px;	
+}
+
+#dos{
+position:absolute;
+top:100px;
+left:100px;
+background-image: url(fotos/rap.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: auto;
+width:1100px;
+height:530px;
+}
+
+#tres{
+position:absolute;
+top:100px;
+left:100px;
+background-image: url(fotos/reggaeton.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: auto;
+width:1100px;
+height:530px;
+}
+
+#cuatro{
+position:absolute;
+top:100px;
+left:100px;
+background-image: url(fotos/rock.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: auto;
+width:1100px;
+height:530px;
+}
+
+#cinco{
+position:absolute;
+top:100px;
+left:100px;
+background-image: url(fotos/electro.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: auto;
+width:1100px;
+height:530px;	
+}
+
+#seis{
+position:absolute;
+top:100px;
+left:100px;
+background-image: url(fotos/frances.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: auto;
+width:1100px;
+height:530px;
+}
+
+#siete{
+position:absolute;
+top:100px;
+left:100px;
+background-image: url(fotos/pop.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: auto;
+width:1100px;
+height:530px;
+}
+
+#ocho{
+position:absolute;
+top:100px;
+left:100px;
+background-image: url(fotos/samba.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: auto;
+width:1100px;
+height:530px;
+}
+
+
+.audio1{
+float: left;
+margin-left: 20px;
+width:100px;
+height:20px;
+border: 2px black solid;
+text-align: center;
+}
+.audio2{
+float: left;
+margin-left: 20px;
+width:100px;
+height:20px;
+border: 2px black solid;
+text-align: center;
+}
+.audio3{
+float: left;
+margin-left: 20px;
+width:100px;
+height:20px;
+border: 2px black solid;
+text-align: center;
+}
+.audio4{
+float: left;
+margin-left: 20px;
+width:100px;
+height:20px;
+border: 2px black solid;
+text-align: center;
+}
+.audio5{
+float: left;
+margin-left: 20px;
+width:100px;
+height:20px;
+border: 2px black solid;
+text-align: center;
+}
+.audio6{
+float: left;
+margin-left: 20px;
+width:100px;
+height:20px;
+border: 2px black solid;
+text-align: center;
+}
+.audio7{
+float: left;
+margin-left: 20px;
+width:100px;
+height:20px;
+border: 2px black solid;
+text-align: center;
+}
+.audio8{
+float: left;
+margin-left: 20px;
+width:100px;
+height:20px;
+border: 2px black solid;
+text-align: center;
+}
+
+.menu{
+float: left;
+width: 1200px;
+height: 30px;
+margin-left: 140px;
+}

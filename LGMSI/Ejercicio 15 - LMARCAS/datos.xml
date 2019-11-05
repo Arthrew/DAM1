@@ -1,0 +1,37 @@
+<peliculas>
+
+	<CD>
+		<TITLE>Deadpool</TITLE>
+		<ARTIST>Ryan Reynolds</ARTIST>
+		<COUNTRY>EE.UU</COUNTRY>
+		<COMPANY>20th Century Fox</COMPANY>
+		<YEAR>2016</YEAR>
+	</CD>
+	
+	<CD>
+		<TITLE>Alien vs Predator</TITLE>
+		<ARTIST>Sanaa Lathan / Raoul Bova</ARTIST>
+		<COUNTRY>EE.UU</COUNTRY>
+		<COMPANY>20th Century Fox</COMPANY>
+		<YEAR>2004</YEAR>
+	</CD>
+	
+	<CD>
+		<TITLE>Batman: El caballero Oscuro</TITLE>
+		<ARTIST>Christian Bale /  Heath Ledger</ARTIST>
+		<COUNTRY>Reino Unido / EE.UU</COUNTRY>
+		<COMPANY>Warner Bros. Pictures</COMPANY>
+		<YEAR>2008</YEAR>
+	</CD>
+	
+	<CD>
+		<TITLE>Bohemian Rhapsody</TITLE>
+		<ARTIST>Rami Malek</ARTIST>
+		<COUNTRY>Reino Unido / EE.UU</COUNTRY>
+		<COMPANY>20th Century Fox</COMPANY>
+		<YEAR>2018</YEAR>
+	</CD>
+	
+
+
+</peliculas>

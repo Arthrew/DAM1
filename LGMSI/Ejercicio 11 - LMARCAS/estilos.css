@@ -1,0 +1,91 @@
+#uno{
+position:absolute;
+top:100px;
+left:150px;
+background-image: url(fotos/mar.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: contain;
+width:1600px;
+height:850px;	
+}
+
+#dos{
+position:absolute;
+top:100px;
+left:150px;
+background-image: url(fotos/sierra.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: contain;
+width:1600px;
+height:850px;
+}
+
+#tres{
+position:absolute;
+top:100px;
+left:150px;
+background-image: url(fotos/ciudad.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: contain;
+width:1600px;
+height:850px;
+}
+
+#cuatro{
+position:absolute;
+top:100px;
+left:150px;
+background-image: url(fotos/pueblo.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: contain;
+
+width:1600px;
+height:850px;
+}
+
+
+.rojo{
+float: left;
+margin-left: 20px;
+width:100px;
+height:20px;
+border: 2px black solid;
+text-align: center;
+}
+.amarillo{
+float: left;
+margin-left: 20px;
+width:100px;
+height:20px;
+border: 2px black solid;
+text-align: center;
+}
+.verde{
+float: left;
+margin-left: 20px;
+width:100px;
+height:20px;
+border: 2px black solid;
+
+text-align: center;
+}
+.azul{
+float: left;
+margin-left: 20px;
+width:100px;
+height:20px;
+border: 2px black solid;
+
+text-align: center;
+}
+
+.menu{
+	float: left;
+	width: 500px;
+	height: 30px;
+	margin-left: 335px;
+}

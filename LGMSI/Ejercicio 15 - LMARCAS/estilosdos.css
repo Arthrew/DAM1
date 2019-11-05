@@ -1,0 +1,86 @@
+#uno{
+position:absolute;
+top:100px;
+left:250px;
+background-image: url(fotos/accion.jpg);
+background-repeat: no-repeat;
+background-size: contain;
+width:800px;
+height:500px;	
+}
+
+#dos{
+position:absolute;
+top:100px;
+left:250px;
+background-image: url(fotos/drama.jpg);
+background-repeat: no-repeat;
+background-size: contain;
+width:800px;
+height:500px;
+}
+
+#tres{
+position:absolute;
+top:100px;
+left:250px;
+background-image: url(fotos/cficcion.jpg);
+background-repeat: no-repeat;
+background-size: contain;
+width:800px;
+height:500px;
+}
+
+#cuatro{
+position:absolute;
+top:100px;
+left:250px;
+background-image: url(fotos/comedia.jpg);
+background-repeat: no-repeat;
+background-size: contain;
+width:800px;
+height:500px;
+}
+
+
+.rojo{
+float: left;
+margin-left: 20px;
+width:100px;
+height:20px;
+border: 2px black solid;
+text-align: center;
+}
+.amarillo{
+float: left;
+margin-left: 20px;
+width:100px;
+height:20px;
+border: 2px black solid;
+text-align: center;
+}
+.verde{
+float: left;
+margin-left: 20px;
+width:100px;
+height:20px;
+border: 2px black solid;
+
+text-align: center;
+}
+.azul{
+float: left;
+margin-left: 20px;
+width:100px;
+height:20px;
+border: 2px black solid;
+
+text-align: center;
+}
+
+.menu{
+	float: left;
+	width: 500px;
+	height: 30px;
+	margin-left: 335px;
+}

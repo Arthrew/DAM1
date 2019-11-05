@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="EX">
+  <ClassDiagramComponents>
+    <Class name="Person" package="" visibility="public" xPosition="20.0" yPosition="20.0">
+      <Fields>
+        <Field name="Name" type="String" visibility="private"/>
+      </Fields>
+      <Constructors/>
+      <Methods/>
+    </Class>
+    <Class name="Student" package="" visibility="public" xPosition="320.0" yPosition="20.0">
+      <Fields/>
+      <Constructors/>
+      <Methods/>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations>
+    <IsRelation name="is" source="Student" target="Person"/>
+  </ClassDiagramRelations>
+</ClassDiagram>

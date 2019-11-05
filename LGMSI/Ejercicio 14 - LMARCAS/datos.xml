@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<DOCTYPE cantantes [
+		 <!ELEMENT CANTANTES(canciones) (#PCDATA)/>
+		 <!ELEMENT CANCIONES (title, artist, country, genero) (#PCDATA)/>
+		
+]>
+<CANTANTES>
+    <Niska>
+        <CANCIONES>
+        <TITLE>Madame Ayahuasca</TITLE>
+        <ARTIST>Taburete</ARTIST>
+        <COUNTRY>España</COUNTRY>
+        <GENERO>Pop</GENERO>
+        </CANCIONES>
+		
+        <CANCIONES>
+        <TITLE>Sirenas</TITLE>
+        <ARTIST>Taburete</ARTIST>
+        <COUNTRY>España</COUNTRY>
+        <GENERO>Pop</GENERO>
+        </CANCIONES>
+    </Niska>
+	
+     <Anuel>
+        <CANCIONES>
+        <TITLE>Amanece</TITLE>
+        <ARTIST>Anuel AA</ARTIST>
+        <COUNTRY>Puerto Rico</COUNTRY>
+        <GENERO>Regaetton</GENERO>
+        </CANCIONES>
+		 
+        <CANCIONES>
+        <TITLE>Na` Nuevo</TITLE>
+        <ARTIST>Anuel AA</ARTIST>
+        <COUNTRY>Puerto Rico</COUNTRY>
+        <GENERO>Reggaetton</GENERO>
+        </CANCIONES>
+    </Anuel>
+	
+      <Eminem>
+        <CANCIONES>
+        <TITLE>No Love</TITLE>
+        <ARTIST>Eminem ft Lil Wayne</ARTIST>
+        <COUNTRY>Los Angeles</COUNTRY>
+        <GENERO>Rap</GENERO>
+        </CANCIONES>
+		  
+        <CANCIONES>
+        <TITLE>Rap God</TITLE>
+        <ARTIST>Eminem</ARTIST>
+        <COUNTRY>Los Angeles</COUNTRY>
+        <GENERO>Rap</GENERO>
+        </CANCIONES>
+    </Eminem>
+	
+    <Drake>
+        <CANCIONES>
+        <TITLE>God's Plan</TITLE>
+        <ARTIST>Drake</ARTIST>
+        <COUNTRY>Los Angeles</COUNTRY>
+        <GENERO>Rap</GENERO>
+        </CANCIONES>
+		
+        <CANCIONES>
+        <TITLE>Mia</TITLE>
+        <ARTIST>Drake ft Bad Bunny</ARTIST>
+        <COUNTRY>Puerto Rico</COUNTRY>
+        <GENERO>Regaetton</GENERO>
+        </CANCIONES>
+    </Drake>
+	
+    </CANTANTES>

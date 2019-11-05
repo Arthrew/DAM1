@@ -1,0 +1,37 @@
+<peliculas>
+
+	<CD>
+		<TITLE>Ocho Apellidos Vascos</TITLE>
+		<ARTIST>Dani Rovira</ARTIST>
+		<COUNTRY>España</COUNTRY>
+		<COMPANY>Universal Studios</COMPANY>
+		<YEAR>2014</YEAR>
+	</CD>
+	
+	<CD>
+		<TITLE>Alien vs Predator</TITLE>
+		<ARTIST>Sanaa Lathan / Raoul Bova</ARTIST>
+		<COUNTRY>EE.UU</COUNTRY>
+		<COMPANY>20th Century Fox</COMPANY>
+		<YEAR>2004</YEAR>
+	</CD>
+	
+	<CD>
+		<TITLE>Venganza</TITLE>
+		<ARTIST>Liam Nesson</ARTIST>
+		<COUNTRY>EE.UU</COUNTRY>
+		<COMPANY>20th Century Fox</COMPANY>
+		<YEAR>2008</YEAR>
+	</CD>
+	
+	<CD>
+		<TITLE>Bohemian Rhapsody</TITLE>
+		<ARTIST>Rami Malek</ARTIST>
+		<COUNTRY>Reino Unido / EE.UU</COUNTRY>
+		<COMPANY>20th Century Fox</COMPANY>
+		<YEAR>2018</YEAR>
+	</CD>
+	
+
+
+</peliculas>
